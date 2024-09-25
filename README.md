@@ -2,7 +2,7 @@
 
 **Desarrolladora Back-end Junior** | **Analista de Sistemas** | **Lic. en Administración**
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Yesica%20Fica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yesica-fica-millan)](https://www.linkedin.com/in/yesica-fica-millan)
+[![LinkedIn Badge](https://img.shields.io/badge/-Yesica%20Fica%20Millán-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yesica-fica-millan)](https://www.linkedin.com/in/yesica-fica-millan)
 [![GitHub Badge](https://img.shields.io/badge/-fica--millan-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/fica-millan)](https://github.com/fica-millan)
 [![Email Badge](https://img.shields.io/badge/-ficamillan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ficamillan@gmail.com)](mailto:ficamillan@gmail.com)
 
