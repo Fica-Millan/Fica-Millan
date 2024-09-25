@@ -54,13 +54,11 @@
 
 Actualmente, estoy en mi último año de la Tecnicatura en Análisis de Sistemas, enfocándome en el dominio de **bases de datos SQL** y fortaleciendo mis habilidades en **desarrollo backend**. Mi objetivo es crear soluciones escalables y eficientes que se ajusten a las necesidades del mundo actual.
 
+> "El aprendizaje es continuo, y cada desafío es una oportunidad para crecer."
+
 ## 📫 ¡Hablemos!
 
 Estoy abierta a nuevas conexiones y oportunidades laborales. Si tienes algún proyecto interesante o simplemente quieres conectar, no dudes en **contactarme**.
-
----
-
-"El aprendizaje es continuo, y cada desafío es una oportunidad para crecer."
 
 ---
 
@@ -69,4 +67,12 @@ Estoy abierta a nuevas conexiones y oportunidades laborales. Si tienes algún pr
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Fica-Millan&show_icons=true&hide_border=true&theme=radical&count_private=true)
 
 ![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=Fica-Millan&layout=compact&hide_border=true&theme=radical)
+
+---
+
+## 💭 Reflexión
+
+*"La vida es como andar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote."*  
+— *Albert Einstein*
+
 
