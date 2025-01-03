@@ -8,7 +8,10 @@
 
 ---
 
-¡Hola! Soy Fica, una **desarrolladora back-end junior** con una sólida formación en Administración. Me adentré en el mundo de la programación con un enfoque en **APIs RESTful** utilizando **Java** y **Spring Boot**. Actualmente, sigo perfeccionando mis habilidades en **desarrollo de software escalable y mantenible**.
+¡Hola! Soy Fica, una **desarrolladora back-end junior** con una sólida formación en Administración. Me adentré en el mundo de la programación con un enfoque en **APIs RESTful** utilizando **Java** y **Spring Boot**. 
+Recientemente me gradué como Analista de Sistemas (diciembre 2024), y sigo perfeccionando mis habilidades en **desarrollo de software escalable y mantenible** mientras busco mi primera experiencia laboral en tecnología. Me mantengo en constante aprendizaje para perfeccionar mis habilidades en desarrollo backend, bases de datos SQL y la creación de soluciones escalables y eficientes.
+
+> "El aprendizaje es continuo, y cada desafío es una oportunidad para crecer."
 
 ## 🎓 Educación y Certificaciones
 
@@ -49,12 +52,6 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-
-## 📚 Aprendizaje Continuo
-
-Recientemente me gradué como Analista de Sistemas (diciembre 2024), y sigo fortaleciendo mis conocimientos mientras busco mi primera experiencia laboral en tecnología. Me mantengo en constante aprendizaje para perfeccionar mis habilidades en desarrollo backend, bases de datos SQL y la creación de soluciones escalables y eficientes.
-
-> "El aprendizaje es continuo, y cada desafío es una oportunidad para crecer."
 
 ## 📫 ¡Hablemos!
 
