@@ -52,7 +52,7 @@
 
 ## 📚 Aprendizaje Continuo
 
-Actualmente, estoy en mi último año de la Tecnicatura en Análisis de Sistemas, enfocándome en el dominio de **bases de datos SQL** y fortaleciendo mis habilidades en **desarrollo backend**. Mi objetivo es crear soluciones escalables y eficientes que se ajusten a las necesidades del mundo actual.
+Recientemente me gradué como Analista de Sistemas (diciembre 2024), y sigo fortaleciendo mis conocimientos mientras busco mi primera experiencia laboral en tecnología. Me mantengo en constante aprendizaje para perfeccionar mis habilidades en desarrollo backend, bases de datos SQL y la creación de soluciones escalables y eficientes.
 
 > "El aprendizaje es continuo, y cada desafío es una oportunidad para crecer."
 
