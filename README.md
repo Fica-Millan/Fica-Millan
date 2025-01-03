@@ -8,10 +8,16 @@
 
 ---
 
-¡Hola! Soy Fica, una **desarrolladora back-end junior** con una sólida formación en Administración. Me adentré en el mundo de la programación con un enfoque en **APIs RESTful** utilizando **Java** y **Spring Boot**. 
-Recientemente me gradué como Analista de Sistemas (diciembre 2024), y sigo perfeccionando mis habilidades en **desarrollo de software escalable y mantenible** mientras busco mi primera experiencia laboral en tecnología. Me mantengo en constante aprendizaje para perfeccionar mis habilidades en desarrollo backend, bases de datos SQL y la creación de soluciones escalables y eficientes.
+¡Hola! Soy Fica, una Desarrolladora Back-end Junior, recientemente graduada como Analista de Sistemas (diciembre 2024) y Licenciada en Administración. Después de varios años en el ámbito administrativo, decidí redirigir mi carrera hacia la programación, enfocándome en el desarrollo backend.
+
+Trabajo con tecnologías como Java, Spring Boot, Hibernate y APIs RESTful, con un interés especial en crear soluciones eficientes, escalables y fáciles de mantener. Además, disfruto mucho de la documentación: me gusta comentar el código y crear guías claras que faciliten el trabajo en equipo y el mantenimiento futuro de los sistemas.
+
+Utilizo herramientas como Swagger, Postman e Insomnia para asegurar la calidad y funcionalidad de los servicios web que desarrollo. Estoy comprometida con el aprendizaje continuo, perfeccionando mis habilidades en desarrollo de software escalable, bases de datos SQL y buenas prácticas de programación.
 
 > "El aprendizaje es continuo, y cada desafío es una oportunidad para crecer."
+
+Mi objetivo es seguir aprendiendo, aportar valor a los proyectos en los que participo y construir sistemas robustos que optimicen procesos y resuelvan problemas de manera efectiva.
+
 
 ## 🎓 Educación y Certificaciones
 
