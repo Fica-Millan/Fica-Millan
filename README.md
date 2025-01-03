@@ -12,8 +12,8 @@
 
 ## 🎓 Educación y Certificaciones
 
-- **Tecnicatura en Análisis de Sistemas** - Instituto Raúl Scalabrini Ortiz (Cursando)
-- **Licenciatura en Administración** - Universidad Nacional de La Matanza | 2008
+- **Tecnicatura en Análisis de Sistemas** - Instituto Raúl Scalabrini Ortiz | Graduada en 2024
+- **Licenciatura en Administración** - Universidad Nacional de La Matanza | Graduada en 2008
 - **Certificaciones en Desarrollo Back-end y Full Stack**:
   - Back-End Devs - Programa ONE | 2024
   - Desarrollo Full Stack PHP - Codo a Codo | 2024
